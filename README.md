@@ -15,4 +15,4 @@ I have developed a project using React that allows users to explore GitHub profi
 </h1>
 
 <img src="preview.gif">
-"# githubfinder" 
+
